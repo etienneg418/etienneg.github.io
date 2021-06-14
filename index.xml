@@ -5,10 +5,20 @@
     <link>/</link>
     <description>Recent content on Les chroniques d&#39;un doctorant</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>fr</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 15:38:21 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenue!</title>
+      <link>/posts/bienvenue/</link>
+      <pubDate>Sun, 02 May 2021 15:38:21 -0400</pubDate>
+      
+      <guid>/posts/bienvenue/</guid>
+      <description>Bienvenue sur mon blog ! Ce blog à pour objectif de me familiariser au développement web à partir d&amp;rsquo;application open source. Aucune prétention ici, il s&amp;rsquo;agit simplement d&amp;rsquo;une occasion d&amp;rsquo;apprentissage ! Au fil du développement du blog, vous y trouverez des publications en lien avec l&amp;rsquo;utilisation de R, la psychologie, la bourse et la vulgarisation scientifique !
+Au plaisir !</description>
+    </item>
+    
     <item>
       <title>Chapter 1</title>
       <link>/docs/example-doc/chapter-1/</link>

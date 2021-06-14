@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Les chroniques d&#39;un doctorant</title>
+    <title>Publications on Les chroniques d&#39;un doctorant</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on Les chroniques d&#39;un doctorant</description>
+    <description>Recent content in Publications on Les chroniques d&#39;un doctorant</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>fr</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
-</copyright><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+</copyright>
+    <lastBuildDate>Sun, 02 May 2021 15:38:21 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenue!</title>
+      <link>/posts/bienvenue/</link>
+      <pubDate>Sun, 02 May 2021 15:38:21 -0400</pubDate>
+      
+      <guid>/posts/bienvenue/</guid>
+      <description>Bienvenue sur mon blog ! Ce blog à pour objectif de me familiariser au développement web à partir d&amp;rsquo;application open source. Aucune prétention ici, il s&amp;rsquo;agit simplement d&amp;rsquo;une occasion d&amp;rsquo;apprentissage ! Au fil du développement du blog, vous y trouverez des publications en lien avec l&amp;rsquo;utilisation de R, la psychologie, la bourse et la vulgarisation scientifique !
+Au plaisir !</description>
+    </item>
+    
   </channel>
 </rss>
